@@ -25,3 +25,9 @@ first and second tutorials in https://go.dev/doc/tutorial/
 
 --------how to compile and install the application
 
+
+satart third tutorial in go.dev named "multi-module workspaces"
+--------------------------------------------------------------
+
+day 4 finished
+
